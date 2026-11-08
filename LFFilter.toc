@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: LFFilter
+## Notes: Adds class and role filters to the Group Finder's Browse tab.
+## Version: 2.1.0
+## SavedVariables: LFFilterDB
+
+LFFilter.lua
